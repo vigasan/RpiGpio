@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>helvetica.ttf</file>
+        <file>logo.png</file>
+        <file>Slider.qml</file>
+        <file>subscribe.png</file>
+        <file>Switch.qml</file>
+    </qresource>
+</RCC>
